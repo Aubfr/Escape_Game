@@ -1,5 +1,5 @@
 # ESCAPE GAME DEV BY AUB 23/09/2025
-
+from termcolor import colored
 
 ascii_aub = """
   _____  ________      __    ______     __          _    _ ____  
@@ -9,3 +9,5 @@ ascii_aub = """
  | |__| | |____   \  /      | |_) | | |     / ____ \ |__| | |_) |
  |_____/|______|   \/       |____/  |_|    /_/    \_\____/|____/ 
 """
+print(ascii_aub)
+print("Bienvenue à vous ! ")
